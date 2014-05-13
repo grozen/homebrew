@@ -2,8 +2,8 @@ require 'formula'
 
 class Plantuml < Formula
   homepage 'http://plantuml.sourceforge.net/'
-  url 'https://downloads.sourceforge.net/project/plantuml/plantuml.7994.jar'
-  sha1 'b1b619532674b159814ea620a4ec1059eee7faee'
+  url 'https://downloads.sourceforge.net/project/plantuml/plantuml.7997.jar'
+  sha1 '9e1b0130e0fcee7b91402951abfecc469d93eaae'
 
   depends_on 'graphviz'
 
